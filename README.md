@@ -2,7 +2,7 @@
 
 This project provides tools to generate truly dependence free Nim binaries. It requires Docker.
 
-For now, only amd64 and armv6 (Raspberry Pi Zero+) binaries can be generated.
+For now, only Amd64 and Armv6 (Raspberry Pi Zero+) binaries can be generated. Support for OpenSSL and PCRE is included.
 
 To generate the toolchains enter the following commands:
 
